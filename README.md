@@ -1,2 +1,2 @@
 # tf-shop
-Common tensorflow paradigms
+Common tensorflow paradigms.
